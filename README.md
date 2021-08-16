@@ -10,8 +10,8 @@ Device: Configuration used:
    Package: csg324,
    Speed : -3
 
-The maximum combinational delay for Brentkung Adder came out as:  4.215ns
-The maximum combinational delay for Ripple Carry Adder came out as:  4.665ns
+The maximum combinational delay for Brentkung Adder came out as:  4.215ns,
+The maximum combinational delay for Ripple Carry Adder came out as:  4.665ns.
 
 The detailed analysis for the two adders can be seen in the synthesis report PDFs.
 
