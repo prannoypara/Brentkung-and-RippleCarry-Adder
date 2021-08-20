@@ -1,6 +1,6 @@
 # Brentkung-Adder
 
-In this repository, I have included the 16 bit-Brentkung, and Ripple carry adders Verilog code. 
+In this repository, I have included the implementation of **_16 bit-Brentkung, and Ripple carry adders_** in Verilog code. 
 
 I have used ModelSim to verify the functionality of the adder by plotting the output waveforms and compared the maximum combinational delay between the two adders using Xilinx ISE design suite 14.7.
 
